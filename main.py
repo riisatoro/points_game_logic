@@ -1,9 +1,8 @@
+import time
 from types import EMPTY, SYSTEM, RED, BLUE, DFS_WHITE, DFS_GRAY, DFS_BLACK
 from display import display_ascii_field
 from create import get_new_field
 from point import Point
-
-import time
 
 
 def find_loop(path):
