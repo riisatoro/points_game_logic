@@ -16,3 +16,14 @@ class Point():
 
     def __ne__(self, color:str):
         return not self.color == color
+
+    """
+    def __dict__(self):
+        dict = {
+            "color": self.color,
+            "part_of_loop": self.part_of_loop,
+            "loop_id": self.loop_id,
+            "captured": self.captured,
+        }
+        return dict
+    """

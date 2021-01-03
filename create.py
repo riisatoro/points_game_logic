@@ -1,4 +1,4 @@
-from types import SYSTEM, EMPTY
+from color_types import SYSTEM, EMPTY
 from point import Point
 
 def get_new_field(row, col):

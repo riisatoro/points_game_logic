@@ -1,4 +1,4 @@
-from types import EMPTY, SYSTEM, RED, BLUE
+from color_types import EMPTY, SYSTEM, RED, BLUE
 
 def display_ascii_field(field, colors):
     chars = {

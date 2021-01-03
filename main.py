@@ -1,5 +1,6 @@
 import time
-from types import EMPTY, SYSTEM, RED, BLUE, DFS_WHITE, DFS_GRAY, DFS_BLACK
+import json
+from color_types import EMPTY, SYSTEM, RED, BLUE, DFS_WHITE, DFS_GRAY, DFS_BLACK
 from display import display_ascii_field
 from create import get_new_field
 from point import Point
@@ -236,6 +237,16 @@ if __name__ == "__main__":
 
     display_ascii_field(field, colors)
 
+    to_client = {
+        "field": field
+    }
+
+    json_str = [[col.__dict__ for col in row ] for row in field ]
+    with open("main.json", 'w') as file:
+        json.dump(json_str, file)
+
+
+    """
     count = 0
     loops_ID = set()
     for i, row in enumerate(field):
@@ -249,6 +260,7 @@ if __name__ == "__main__":
                 if ID in point.loop_id:
                     print(ID, (i, j))
         print("")
+    """
 
 # start_time = time.time()
 # print("--- %s seconds ---" % (time.time() - start_time))

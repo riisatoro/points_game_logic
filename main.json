@@ -1,0 +1,940 @@
+[
+    [
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        }
+    ],
+    [
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "RED",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "RED",
+            "part_of_loop": true,
+            "loop_id": [
+                1
+            ],
+            "captured": false
+        },
+        {
+            "color": "RED",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        }
+    ],
+    [
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "RED",
+            "part_of_loop": true,
+            "loop_id": [
+                1
+            ],
+            "captured": false
+        },
+        {
+            "color": "BLUE",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": true
+        },
+        {
+            "color": "RED",
+            "part_of_loop": true,
+            "loop_id": [
+                1,
+                2
+            ],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        }
+    ],
+    [
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "RED",
+            "part_of_loop": true,
+            "loop_id": [
+                1,
+                2
+            ],
+            "captured": false
+        },
+        {
+            "color": "RED",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "RED",
+            "part_of_loop": true,
+            "loop_id": [
+                2
+            ],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        }
+    ],
+    [
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "RED",
+            "part_of_loop": true,
+            "loop_id": [
+                2
+            ],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": true
+        },
+        {
+            "color": "BLUE",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": true
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": true
+        },
+        {
+            "color": "RED",
+            "part_of_loop": true,
+            "loop_id": [
+                2
+            ],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        }
+    ],
+    [
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "RED",
+            "part_of_loop": true,
+            "loop_id": [
+                2
+            ],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": true
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": true
+        },
+        {
+            "color": "RED",
+            "part_of_loop": true,
+            "loop_id": [
+                2,
+                3
+            ],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        }
+    ],
+    [
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "RED",
+            "part_of_loop": true,
+            "loop_id": [
+                2
+            ],
+            "captured": false
+        },
+        {
+            "color": "RED",
+            "part_of_loop": true,
+            "loop_id": [
+                2,
+                3
+            ],
+            "captured": false
+        },
+        {
+            "color": "BLUE",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": true
+        },
+        {
+            "color": "RED",
+            "part_of_loop": true,
+            "loop_id": [
+                3
+            ],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "BLUE",
+            "part_of_loop": true,
+            "loop_id": [
+                5
+            ],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        }
+    ],
+    [
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "RED",
+            "part_of_loop": true,
+            "loop_id": [
+                3
+            ],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": true
+        },
+        {
+            "color": "RED",
+            "part_of_loop": true,
+            "loop_id": [
+                3
+            ],
+            "captured": false
+        },
+        {
+            "color": "BLUE",
+            "part_of_loop": true,
+            "loop_id": [
+                5
+            ],
+            "captured": false
+        },
+        {
+            "color": "RED",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": true
+        },
+        {
+            "color": "BLUE",
+            "part_of_loop": true,
+            "loop_id": [
+                5
+            ],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        }
+    ],
+    [
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "RED",
+            "part_of_loop": true,
+            "loop_id": [
+                3
+            ],
+            "captured": false
+        },
+        {
+            "color": "BLUE",
+            "part_of_loop": true,
+            "loop_id": [
+                5
+            ],
+            "captured": false
+        },
+        {
+            "color": "RED",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": true
+        },
+        {
+            "color": "BLUE",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "RED",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": true
+        },
+        {
+            "color": "BLUE",
+            "part_of_loop": true,
+            "loop_id": [
+                5
+            ],
+            "captured": false
+        },
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        }
+    ],
+    [
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "BLUE",
+            "part_of_loop": true,
+            "loop_id": [
+                5
+            ],
+            "captured": false
+        },
+        {
+            "color": "RED",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": true
+        },
+        {
+            "color": "BLUE",
+            "part_of_loop": true,
+            "loop_id": [
+                5
+            ],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        }
+    ],
+    [
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "BLUE",
+            "part_of_loop": true,
+            "loop_id": [
+                5
+            ],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "EMPTY",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        }
+    ],
+    [
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        },
+        {
+            "color": "SYSTEM",
+            "part_of_loop": false,
+            "loop_id": [],
+            "captured": false
+        }
+    ]
+]
