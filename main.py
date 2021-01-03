@@ -60,13 +60,13 @@ def calc_loops(point, field, enemy_color):
     path = []
     visited = {}
     loops = []
-    potential = []
 
     def dfs(coords:tuple):
         x, y = coords
         visited[coords] = DFS_GRAY
         
         # find all neighbours for this point
+        # TODO check first 4 sides, then 4 diagonals
         for i in range(x-1, x+2):
             for j in range(y-1, y+2):
                 dot = field[x][y]  # Point obj
@@ -136,6 +136,8 @@ def set_captured_points(field, loop, color):
             if is_in_loop(loop, (i, j)):
                 if point == color or point == EMPTY:
                     point.captured = True
+                    point.part_of_loop = False
+                    point.loop_id = []
                 else:
                     point.captured = False
     return field
@@ -234,6 +236,20 @@ if __name__ == "__main__":
         field = process(point, field, BLUE, colors)
 
     display_ascii_field(field, colors)
+
+    count = 0
+    loops_ID = set()
+    for i, row in enumerate(field):
+        for j, point in enumerate(row):
+            if point.part_of_loop:
+                loops_ID.update(point.loop_id)
+    
+    for ID in loops_ID:
+        for i, row in enumerate(field):
+            for j, point in enumerate(row):
+                if ID in point.loop_id:
+                    print(ID, (i, j))
+        print("")
 
 # start_time = time.time()
 # print("--- %s seconds ---" % (time.time() - start_time))

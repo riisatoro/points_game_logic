@@ -11,12 +11,12 @@ def display_ascii_field(field, colors):
         "EMPTY_CAPTURED": ".",
     }
 
-    for row in field:
+    for p, row in enumerate(field):
         for i in range(3):
-            for col in row:
+            for q, col in enumerate(row):
                 if i == 0:
-                    # display top lines
-                    pass
+                    # display lines on top
+                   pass
                 elif i == 1:
                     # display side lines and point
                     if col.captured:
